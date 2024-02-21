@@ -47,3 +47,5 @@ before reaching out for help
 - Let us know you've completed the exercise using the link provided at the bottom of the email from our recruitment team
 - Usernames of the developers reviewing your code will then be provided for you to grant them access to your private repository
 - Put your name in the README
+
+Thanks
